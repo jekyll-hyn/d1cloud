@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1cloud",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "fd2873a6-026f-4b1c-bf69-0b8c030142ec",
+			"database_name": "authdb"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
